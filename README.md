@@ -1,6 +1,6 @@
 # Hi, I'm Fatimoh Olatunji 👋
 
-I'm an aspiring Data Analyst and final year Business 
+I'm a Data Analyst and final year Business 
 Administration student at Obafemi Awolowo University (OAU).
 
 I specialise in turning raw business data into clear, 
